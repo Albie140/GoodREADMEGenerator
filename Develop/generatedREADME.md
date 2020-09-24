@@ -1,23 +1,24 @@
-# o
-  ## o
+# Good README Generator
+  ## Description
+  * generates readmes
   ## Installation
-  * o
+  * npm install
   ## Table of Contents
-  * o
-  * o
-  * o
-  * MIT
-  * o
-  * o
-  * o
+  * [Good README Generator](#ProjectTitle)
+  * [Description](#Description)
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Contributing](#Contributing)
+  * [Tests](#Tests)
+  * [Questions](#Questions)
   ## Usage
-  * o
+  * Terminal/Gitbash
   ## License
-  * MIT
+  * GPL 3.0
   ## Contributing 
-  * o
+  * me
   ## Tests
-  * o
+  * testing
   ## Questions
-  * o
+  * me@email.com
   

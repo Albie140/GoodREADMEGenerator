@@ -3,8 +3,6 @@ var inquirer = require("inquirer");
 var generateMarkdown = require("./utils/generateMarkdown.js")
 
 
-    
-
 // array of questions for user
 const questions = [ {
     type: "input",
@@ -45,7 +43,7 @@ const questions = [ {
 {
     type:"input",
     name:"Questions",
-    message:"What email can users contact with questions?"
+    message:"Please provide the email and gitHub profile users can contact with any questions."
 }
 
 ];
