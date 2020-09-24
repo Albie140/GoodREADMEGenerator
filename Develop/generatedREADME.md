@@ -1,8 +1,8 @@
-# ooo
+# Good README Generator
   ## Description
-  * ooo
+  * This application allows users to generate a professional and informational readme document.
   ## Installation
-  * ooo
+  * This application is installed using npm install
   ## Table of Contents
   * [ProjectTitle](#ProjectTitle)
   * [Description](#Description)
@@ -12,13 +12,13 @@
   * [Tests](#Tests)
   * [Questions](#Questions)
   ## Usage
-  * ooo
+  * Users simply follow and answer all of the promots, then the README is generated.
   ## License
-  * This project is licensed under APACHE2.0-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) .
+  * This project is licensed under GPL3.0-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0).
   ## Contributing 
-  * ooo 
+  * Me
   ## Tests
-  * ooo
+  * I run tests using my Terminal
   ## Questions?
-  * User can contact me at ooo.
+  * User can contact me at alberte.laventure@gmail.com, github.com/Albie140.
   
