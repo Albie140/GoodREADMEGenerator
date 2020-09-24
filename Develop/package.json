@@ -1,14 +1,17 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Alberte",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "keywords": [
+    "GoodReadmeGenerator"
+  ],
+  "description": ""
 }
