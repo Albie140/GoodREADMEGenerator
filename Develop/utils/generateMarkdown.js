@@ -16,13 +16,13 @@ function generateMarkdown(data) {
   ## Usage
   * ${data.Usage}
   ## License
-  * ${data.License}
+  * This project is licensed under ${data.License}.
   ## Contributing 
   * ${data.Contributing}
   ## Tests
   * ${data.Tests}
-  ## Questions
-  * ${data.Questions}
+  ## Questions?
+  * User can contact me at ${data.Questions}.
   `;
 }
 

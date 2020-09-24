@@ -1,10 +1,10 @@
-# Good README Generator
+# ooo
   ## Description
-  * generates readmes
+  * ooo
   ## Installation
-  * npm install
+  * ooo
   ## Table of Contents
-  * [Good README Generator](#ProjectTitle)
+  * [ProjectTitle](#ProjectTitle)
   * [Description](#Description)
   * [Usage](#Usage)
   * [License](#License)
@@ -12,13 +12,13 @@
   * [Tests](#Tests)
   * [Questions](#Questions)
   ## Usage
-  * Terminal/Gitbash
+  * ooo
   ## License
-  * GPL 3.0
+  * This project is licensed under APACHE2.0-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) .
   ## Contributing 
-  * me
+  * ooo 
   ## Tests
-  * testing
-  ## Questions
-  * me@email.com
+  * ooo
+  ## Questions?
+  * User can contact me at ooo.
   

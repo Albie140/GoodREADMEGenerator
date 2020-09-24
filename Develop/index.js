@@ -12,7 +12,7 @@ const questions = [ {
 {
     type:"input",
     name: "Description",
-    message: "Briefly describe your project",
+    message: "Describe your project in 1-2 sentences",
 },
 {
     type:"input",
@@ -28,7 +28,7 @@ const questions = [ {
     type:"checkbox",
     name:"License",
     message:"Please choose the license for your application",
-    choices: ["MIT", "APACHE 2.0", "GPL 3.0", "None"]
+    choices: ["MIT-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ", "APACHE2.0-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ", "GPL3.0-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)", "None"]
 },
 {
     type:"input",
@@ -50,6 +50,7 @@ const questions = [ {
 
 // function to write README file
 function writeToFile(fileName, data) {
+   
    return fs.writeFileSync(fileName, data, {encoding: "utf8"})
 // console.log(fileName);
 // console.log(data)
@@ -66,4 +67,5 @@ inquirer.prompt(questions)
 
 // function call to initialize program
 init();
-    
+
+  
