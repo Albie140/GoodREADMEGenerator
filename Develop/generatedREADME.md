@@ -1,9 +1,11 @@
-# Good README Generator  
-  ## This application allows the user to generate a good readme for their applications.
+# README Generator
+  ## This application allows the user to generate a good readme for their application.
   ## You can install by using npm install
-  ## Follow the node prompts and enter the requested information.
-  ## APACHE 2.0
+  ## Table of Contents
+  * README Generator
+  ## Follow the prompts in your terminal and enter the requested information.
+  ## MIT
   ## Me
-  ## Run tests by opening Node js in your terminal.
-  ## alberte.laventure@gmail.com
+  ## Run tests by opening Node in your Terminal.
+  ## Users can contact alberte.laventure@gmail.com with questions.
   
