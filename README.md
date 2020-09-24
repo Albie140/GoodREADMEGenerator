@@ -1,4 +1,5 @@
 # GoodREADMEGenerator
+## Description
 This application was created for a developer who wants to create professional READMEs. This application takes in user input and generates a README. READMEs are essential for developers and for those using their applications. 
 
 ## Installation
@@ -17,6 +18,10 @@ Alberte Laventure
 Please conatct me with any questions at alberte.laventure@gmail.com or github.com/Albie140.
 
 ## Images
-![Index.js Image](index.js1.png)
-![Markdown Generator Image](markdownGenerator.png)
-![README Generator Image](READMEGeneratorimg.png)
+![Index.js Image](Develop/index.js1.png)
+
+
+![Markdown Generator Image](Develop/markdownGenerator.png)
+
+
+![README Generator Image](Develop/READMEGeneratorimg.png)
